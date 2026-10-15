@@ -11,7 +11,7 @@
 | 用途                        | 地址                                 |
 | --------------------------- | ------------------------------------ |
 | 📘 本教程原始页面            | https://getclaude.aigc248.com/       |
-| 🛒 购买 Claude Pro 充值卡密   | https://store.ai-headshot.net/item/8 |
+| 🛒 购买 Claude Pro 充值卡密   | https://store.ai-headshot.net?from=46 |
 | 💳 Claude Pro 自助充值系统   | https://vip666ai.com/                |
 
 ---
@@ -48,7 +48,7 @@ Claude 在写代码、长文档分析、写作和研究上都很强，Pro 版的
 
 如果没有自己的Claude Free账号 ，也可以在发卡网购买：
 
-👉 https://store.ai-headshot.net/item/7
+👉 https://store.ai-headshot.net?from=46
 
 ### ✅ 没有方便的国际信用卡
 
@@ -248,7 +248,7 @@ Claude 在写代码、长文档分析、写作和研究上都很强，Pro 版的
 
 ### 🚀 相关入口
 
-- 购买 Claude Pro 充值卡密：https://store.ai-headshot.net/item/8
+- 购买 Claude Pro 充值卡密：https://store.ai-headshot.net?from=46
 - Claude Pro 自助充值系统：https://vip666ai.com/
 - 完整图文 / 视频教程：https://getclaude.aigc248.com/
 
